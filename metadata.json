@@ -1,0 +1,6 @@
+{
+  "name": "Torrent Tracker Checker",
+  "description": "Aggregates torrent trackers from URLs and checks their connectability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
